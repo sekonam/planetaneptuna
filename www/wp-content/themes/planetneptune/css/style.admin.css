@@ -1,0 +1,65 @@
+﻿.edit_icon, .edit_icon div{
+    background-image: url(../images/edit_icon.png);   
+    width: 36px;
+    height: 36px;
+}
+.edit_icon div, .fp_edit, .footer_edit, .header_edit1, .header_edit2, .header_edit3{
+	opacity: 0;
+}
+.edit_icon div{
+	background-position: -36px 0px;
+}
+.fp_edit, .header_edit1, .header_edit2, .header_edit3, .footer_edit{
+	position: absolute;
+}
+.header_edit1{
+	margin: -6px 0 0 -13px;
+}
+.header_edit2{
+	margin: -7px 0 0 -13px;
+}
+.header_edit3{
+	margin: -4px 0 0 0px;
+}
+.footer_edit{
+	margin-top: -73px;
+}
+#site_data, #site_data_content{
+	width: 935px;	
+	height: 35px;	
+}
+#site_data{
+    margin: 0 0 18px 24px;
+	background-color: #09403e;
+    background-image:url(../images/vintage_bg.png);
+}
+#site_data_content{
+    font-family: "Arial";
+	text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+	text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+#site_data_content a:link, 
+#site_data_content a:visited, 
+#site_data_content a:active,
+#site_data_content{
+    color:#f6f6c4;
+}	
+#site_data_content a:hover{
+    color:#ee5e04;
+}
+#site_sys_msg{
+	width: 700px;
+	height: 20px;
+	margin: -13px 0 0 20px;
+	color: #7b6151;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.news_edit{
+	margin-top: -4px;
+}

@@ -1,0 +1,33 @@
+﻿/* © 2013 Планета Нептуна. Все права защищены. 
+ * Запрещено использование материалов сайта без 
+ * согласия его авторов и обратной ссылки. */
+#logo{
+    background-image:url(../images/logo_ru.jpg);
+}
+#item1{width: 93px;}
+#item2{width: 191px;}
+#item3{width: 175px;}
+#item4{width: 184px;}
+#item5{width: 163px;}
+#item6{width: 124px;}
+.footer_text{
+	width: 310px;
+}
+.footer_hlines_left{
+	width: 280px;
+} 
+.footer_hlines_right{
+	width: 305px;
+}
+.news_text{
+	width: 167px;
+}
+.news_hline_right{
+	width: 305px;
+}
+#copyr_hline_left, #copyr_hline_right{
+	width: 292px;
+}
+#copyr_content{
+	width: 351px;
+}
